@@ -1,4 +1,4 @@
-# When is a Right Time to Visit Vietnam?
+# Analyzing Vietnam's weather data through Ridgeline Plots
 
 Code to produce ridgeline plots (previously _Joy Plot_) for Vietnam weather data. Data comes from the [General Statistics Office of Vietnam](https://www.gso.gov.vn/Default_en.aspx?tabid=766).
 
